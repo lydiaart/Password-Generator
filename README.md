@@ -24,14 +24,14 @@ This is a pasword generater. Users could choose and combine from four different 
 This webpage is to help people who needs new passwords.
 
 The following image demonstrates the web application's appearance and functionality:
-<img src="./pg.png" alt="screen shot"/>
+<img src="./assets/image/pg.png" alt="screen shot"/>
 
 
 ## Websites
 
- https://flowingcityloy.github.io/LydiasPortfolio/ (Links to an external site.)
+ https://flowingcityloy.github.io/Password-Generator/ (Links to an external site.)
 
-https://github.com/flowingcityloy/LydiasPortfolio
+https://github.com/flowingcityloy/Password-Generator
 
 
 ## Credits
