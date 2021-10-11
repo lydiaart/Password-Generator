@@ -16,7 +16,7 @@ This is a pasword generator. Users could choose and combine from four different 
 This webpage is to help people who needs new passwords.
 
 The following image demonstrates the web application's appearance and functionality:
-<img src="./assets/image/pg.png" alt="Password Generator"/>
+<img src="./assets/image/PG.png" alt="Password Generator"/>
 
 
 ## Websites
