@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a pasword generator. Users could choose and combine from four different criteria which are lowercase letters, uppercase letters, special characters and numbers to generate random password. Before the criteria options, users need to select the length of the password between 8-128. When the length of the password is not met the requirement, a friendly reminder will show up. User also needs to choose at least one of those criteria options in order to generate the password. The screen is designed to fit into different media sizes.
+This is a pasword generator. Users could choose and combine from four different criteria which are lower case letters, upper case letters, special characters and numbers to generate random password. Before the criteria options, users need to select the length of the password between 8-128. When the length of the password is not met the requirement, a friendly reminder will show up. User also needs to choose at least one of those criteria options in order to generate the password. The screen is designed to fit into different media sizes.
 
 
 ## Built with
