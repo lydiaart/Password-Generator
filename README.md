@@ -21,12 +21,12 @@ The following image demonstrates the web application's appearance and functional
 
 ## Websites
 
- https://flowingcityloy.github.io/Password-Generator/ (Links to an external site.)
+[Live Site] https://lydiaart.github.io/Password-Generator/
 
-https://github.com/flowingcityloy/Password-Generator
+[Repository] https://github.com/flowingcityloy/Password-Generator
 
 
 ## Credits
 
-❤️ Made with love by Lydia L ❤️
+❤️ Made with love by Lydia ❤️
 
