@@ -21,9 +21,9 @@ The following image demonstrates the web application's appearance and functional
 
 ## Websites
 
-[Live Site] (https://lydiaart.github.io/Password-Generator/) <br />
+[Live Site](https://lydiaart.github.io/Password-Generator/) <br />
 
-[Repository] (https://github.com/flowingcityloy/Password-Generator)
+[Repository](https://github.com/flowingcityloy/Password-Generator)
 
 
 ## Credits
